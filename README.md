@@ -23,8 +23,7 @@ I enjoy building practical projects using Python, Data Science, Machine Learning
 
 ## 📄 Resume
 
-👉 [View My Resume](MADEEHA'S RESUME.pdf)
-
+👉 [View My Resume](<./MADEEHA'S RESUME.pdf>)
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/madeeha-tabassum-241018301/)
